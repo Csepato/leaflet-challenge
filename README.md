@@ -21,7 +21,7 @@ The visualzation includes
 
 ![Step-1](Images/Leaflet_Step_1.png)
 
-The Level-1 page can be accessed [here](https://cliffordsepato.github.io/leaflet-challenge/Leaflet-Step-1/index.html)
+The Level-1 page can be accessed [here](https://cliffordsepato.github.io/USGS-Earthquake-Visualization/Leaflet-Step-1/index.html)
 
 
 ## Level-2: Advanced Visualization
@@ -37,4 +37,4 @@ The Level-1 page can be accessed [here](https://cliffordsepato.github.io/leaflet
 
 ![Step-2](Images/Leaflet_Step_2.png)
 
-The Level-2 page can be accessed [here](https://cliffordsepato.github.io/leaflet-challenge/Leaflet-Step-2/index.html)
+The Level-2 page can be accessed [here](https://cliffordsepato.github.io/USGS-Earthquake-Visualization/Leaflet-Step-2/index.html)
